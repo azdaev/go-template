@@ -1,4 +1,4 @@
-module github.com/azdaev/fitra/api
+module github.com/azdaev/template
 
 go 1.22.1
 

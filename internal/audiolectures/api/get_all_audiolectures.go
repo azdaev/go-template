@@ -3,7 +3,7 @@ package api
 import (
 	"net/http"
 
-	"github.com/azdaev/fitra/api/cmd/main/internal/audiolectures/api/responses"
+	"github.com/azdaev/template/internal/audiolectures/api/responses"
 	"github.com/pkg/errors"
 
 	"github.com/gin-gonic/gin"

@@ -3,7 +3,7 @@ package service
 import (
 	"context"
 
-	"github.com/azdaev/fitra/api/cmd/main/internal/audiolectures/model"
+	"github.com/azdaev/template/internal/audiolectures/model"
 	"github.com/pkg/errors"
 )
 

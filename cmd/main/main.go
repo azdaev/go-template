@@ -7,9 +7,9 @@ import (
 
 	"github.com/pkg/errors"
 
-	"github.com/azdaev/fitra/api/cmd/main/internal/audiolectures/api"
-	"github.com/azdaev/fitra/api/cmd/main/internal/audiolectures/repo"
-	"github.com/azdaev/fitra/api/cmd/main/internal/audiolectures/service"
+	"github.com/azdaev/template/internal/audiolectures/api"
+	"github.com/azdaev/template/internal/audiolectures/repo"
+	"github.com/azdaev/template/internal/audiolectures/service"
 	"github.com/gin-gonic/gin"
 	"github.com/joho/godotenv"
 	_ "github.com/lib/pq"
